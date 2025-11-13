@@ -17,60 +17,6 @@
    background: #f5f5f5;
    color: #333;
 }
-
-  header nav {
-     background-color: #222;
-     color: greenyellow;
-     display: flex;
-     justify-content: space-between;
-     align-items: center;
-     padding: 10px 30px;
-}
-
-  nav ul {
-     list-style: none;
-     display: flex;
-     gap: 20px;
-     margin: 0;
-}
-
-  nav a {
-     color: white;
-     text-decoration: none;
-}
-        
-  nav a.active, nav a:hover {
-     text-decoration: underline;
-}
-        
-  .hero {
-     text-align: center;
-     padding: 60px 20px;
-}
-        
-  .profile {
-     width: 150px;
-     border-radius: 50%;
-}
-        
-  .btn {
-     display: inline-block;
-     background-color: #007BFF;
-     color: white;
-     padding: 10px 20px;
-     border-radius: 6px;
-     text-decoration: none;
-}
-        
-  .btn:hover {
-     background-color: #0056b3;
-}
-        
- .gallery img {
-     width: 300px;
-     margin: 10px;
-     border-radius: 10px;
-}
  </style>
       <header>
         <nav>
