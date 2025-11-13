@@ -1,39 +1,30 @@
 <DOCTYPE html>
 <html>
 <head>
- <meta charset="UTF-8">
  <title>My Personal Life</title>
+ <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link rel="stylesheet" href="css/style.css">
  <link rel="stylesheet" href="css/style.css">
  <script src="js/script.js" defer></script>
 </head>
 <body>
-    <style>
- body {
-   font-family: 'Segoe UI', sans-serif;
-   margin: 0;
-   padding: 0;
-   background: #f5f5f5;
-   color: #333;
-}
- </style>
-      <header>
-        <nav>
-          <h1>My Personal Life</h1>
-            <ul>
-             <li><a href="index.html" class="active">Home</a></li>
-             <li><a href="about.html">About</a></li>
-             <li><a href="education.html">Education</a></li>
-             <li><a href="skills.html">Skills</a></li>
-             <li><a href="experience.html">Experience</a></li>
-             <li><a href="projects.html">Projects</a></li>
-             <li><a href="gallery.html">Gallery</a></li>
-             <li><a href="blog.html">Blog</a></li>
-             <li><a href="contact.html">Contact</a></li>
-            </ul>
-        </nav>
-      </header>
+  <header>
+    <nav>
+      <h1>My Personal Life</h1>
+        <ul>
+          <li><a href="index.html" class="active">Home</a></li>
+          <li><a href="about.html">About</a></li>
+          <li><a href="education.html">Education</a></li>
+          <li><a href="skills.html">Skills</a></li>
+           <li><a href="experience.html">Experience</a></li>
+           <li><a href="projects.html">Projects</a></li>
+           <li><a href="gallery.html">Gallery</a></li>
+           <li><a href="blog.html">Blog</a></li>
+           <li><a href="contact.html">Contact</a></li>
+         </ul>
+      </nav>
+  </header>
 
   <section class="hero">
     <img src="" alt="Profile Picture" class="profile">
@@ -44,7 +35,7 @@
 </body>
 </html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -62,15 +53,15 @@
     </nav>
   </header>
 
-  <main>
-    <h1>About Me</h1>
-    <p>Hello! I'm Daryl Jospeh P. Sajulga, a student and web developer who loves building interactive and creative websites.</p>
-    <p>I specialize in creating responsive, clean, and user-friendly designs. My goal is to become a professional full-stack web developer.</p>
-  </main>
+<main>
+  <h1>About Me</h1>
+  <p>Hello! I'm Daryl Jospeh P. Sajulga, a student and web developer who loves building interactive and creative websites.</p>
+  <p>I specialize in creating responsive, clean, and user-friendly designs. My goal is to become a professional full-stack web developer.</p>
+</main>
 </body>
 </html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -84,15 +75,16 @@
     <h1>Education</h1>
     <ul>
       <li><strong>Bachelor of Science in Information Technology</strong><br>
-        [Holy Name University], 2023-2025</li>
+        Holy Name University, 2023-2025</li>
       <li><strong>High School Diploma</strong><br>
         Great Minds Leadership Academy, Graduated 2021</li>
     </ul>
     <button onclick ="Education">Click Here</button>
   </main>
 </body>
+</html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -110,13 +102,14 @@
 </body>
 </html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <title>Experience</title>
   <link rel="stylesheet" href="css/style.css">
 </head>
+ 
 <body>
   <h1>Experience</h1>
   <p><strong>Frontend Developer Intern</strong> - XYZ Tech (2024)</p>
@@ -125,8 +118,9 @@
     <li>Worked with a small team to improve UI/UX designs.</li>
   </ul>
 </body>
+</html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -140,8 +134,9 @@
     <li><a href="project2.html"></a></li>
   </ul>
 </body>
+</html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -153,6 +148,7 @@
   <h1>Project 1: Badminton</h1>
   <p>This is the </p>
 </body>
+</html>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -163,10 +159,11 @@
 </head>
 <body>
   <h1>Projetc 2: </h1>
-  <p></p>
+  <p>This is</p>
 </body>
+</html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -181,8 +178,9 @@
     <img src="" alt="Project 2 Screenshot">
   </div>
 </body>
+</html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -197,8 +195,9 @@
     <p>Sharing my journey about Web Development. Now developing a website requires coding obviuosly</p>
   </article>
 </body>
+</html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -211,18 +210,16 @@
   <form id="contactForm">
     <label for="name">Name:</label>
     <input type="text" id="name" required><br>
-
     <label for="email">Email:</label>
     <input type="email" id="email" required><br>
-
     <label for="message">Message:</label>
     <textarea id="message" required></textarea><br>
-
     <button type="submit" class="btn">Send Message</button>
   </form>
 </body>
+</html>
 
-<!DOCTYPE html>
+<DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -238,8 +235,7 @@
   background: #f5f5f5;
   color: #333;
 }
-
-header nav {
+  header nav {
   background-color: #222;
   color: greenyellow;
   display: flex;
@@ -247,34 +243,28 @@ header nav {
   align-items: center;
   padding: 10px 30px;
 }
-
-nav ul {
+  nav ul {
   list-style: none;
   display: flex;
   gap: 20px;
   margin: 0;
 }
-
-nav a {
+  nav a {
   color: white;
   text-decoration: none;
 }
-
-nav a.active, nav a:hover {
+  nav a.active, nav a:hover {
   text-decoration: underline;
 }
-
-.hero {
+  .hero {
   text-align: center;
   padding: 60px 20px;
 }
-
-.profile {
+  .profile {
   width: 150px;
   border-radius: 50%;
 }
-
-.btn {
+  .btn {
   display: inline-block;
   background-color: #007BFF;
   color: white;
@@ -282,28 +272,15 @@ nav a.active, nav a:hover {
   border-radius: 6px;
   text-decoration: none;
 }
-
-.btn:hover {
+  .btn:hover {
   background-color: #0056b3;
 }
 
-footer {
-  background: #333;
-  color: yellow;
-  text-align: center;
-  padding: 10px;
-  margin-top: 40px;
-}
-
-.gallery img {
-  width: 300px;
-  margin: 10px;
-  border-radius: 10px;
-}
  </style>
-  <h1>Thank You!</h1>
-  <p>Your message has been sent successfully. I'll get back to you soon!</p>
-  <a href="index.html" class="btn">Return to Home</a>
+ 
+ <h1>Thank You!</h1>
+ <p>Your message has been sent successfully. I'll get back to you soon!</p>
+ <a href="index.html" class="btn">Return to Home</a>
 
 </body>
 </html>
