@@ -1,85 +1,85 @@
 <DOCTYPE html>
 <html>
-    <head>
-        <meta charset="UTF-8">
-        <title>My Personal Life</title>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="css/style.css">
-        <link rel="stylesheet" href="css/style.css">
-        <script src="js/script.js" defer></script>
-    </head>
-    <body>
-      <style>
-  body {
-  font-family: 'Segoe UI', sans-serif;
-  margin: 0;
-  padding: 0;
-  background: #f5f5f5;
-  color: #333;
-}
+<head>
+    <meta charset="UTF-8">
+    <title>My Personal Life</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js" defer></script>
+</head>
+<body>
+    <style>
+        body {
+         font-family: 'Segoe UI', sans-serif;
+          margin: 0;
+          padding: 0;
+          background: #f5f5f5;
+          color: #333;
+        }
 
-header nav {
-  background-color: #222;
-  color: greenyellow;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 10px 30px;
-}
+        header nav {
+          background-color: #222;
+          color: greenyellow;
+          display: flex;
+          justify-content: space-between;
+          align-items: center;
+          padding: 10px 30px;
+        }
 
-nav ul {
-  list-style: none;
-  display: flex;
-  gap: 20px;
-  margin: 0;
-}
+        nav ul {
+          list-style: none;
+          display: flex;
+          gap: 20px;
+          margin: 0;
+        }
 
-nav a {
-  color: white;
-  text-decoration: none;
-}
-
-nav a.active, nav a:hover {
-  text-decoration: underline;
-}
-
-.hero {
-  text-align: center;
-  padding: 60px 20px;
-}
-
-.profile {
-  width: 150px;
-  border-radius: 50%;
-}
-
-.btn {
-  display: inline-block;
-  background-color: #007BFF;
-  color: white;
-  padding: 10px 20px;
-  border-radius: 6px;
-  text-decoration: none;
-}
-
-.btn:hover {
-  background-color: #0056b3;
-}
-
-footer {
-  background: #333;
-  color: yellow;
-  text-align: center;
-  padding: 10px;
-  margin-top: 40px;
-}
-
-.gallery img {
-  width: 300px;
-  margin: 10px;
-  border-radius: 10px;
-}
-   </style>
+        nav a {
+          color: white;
+          text-decoration: none;
+        }
+        
+        nav a.active, nav a:hover {
+          text-decoration: underline;
+        }
+        
+        .hero {
+          text-align: center;
+          padding: 60px 20px;
+        }
+        
+        .profile {
+          width: 150px;
+          border-radius: 50%;
+        }
+        
+        .btn {
+          display: inline-block;
+          background-color: #007BFF;
+          color: white;
+          padding: 10px 20px;
+          border-radius: 6px;
+          text-decoration: none;
+        }
+        
+        .btn:hover {
+          background-color: #0056b3;
+        }
+        
+        footer {
+          background: #333;
+          color: yellow;
+          text-align: center;
+          padding: 10px;
+          margin-top: 40px;
+        }
+        
+        .gallery img {
+          width: 300px;
+          margin: 10px;
+          border-radius: 10px;
+        }
+    </style>
       <header>
         <nav>
           <h1>My Personal Life</h1>
@@ -103,8 +103,8 @@ footer {
     <p>A college student passionate about front-end design and creative digital solutions.</p>
     <a href="about.html" class="btn">Learn More About Me</a>
   </section>
-    </body>
-  </html>
+</body>
+</html>
 
 <!DOCTYPE html>
 <html lang="en">
