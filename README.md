@@ -5,7 +5,6 @@
  <meta charset="UTF-8">
  <meta name="viewport" content="width=device-width, initial-scale=1.0">
  <link rel="stylesheet" href="css/style.css">
- <link rel="stylesheet" href="css/style.css">
  <script src="js/script.js" defer></script>
 </head>
 <body>
@@ -35,7 +34,7 @@
 </body>
 </html>
 
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -61,7 +60,7 @@
 </body>
 </html>
 
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -83,8 +82,8 @@
   </main>
 </body>
 </html>
-
-<DOCTYPE html>
+ 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -101,8 +100,8 @@
   <button onclick ="My Skills">Click here</button>
 </body>
 </html>
-
-<DOCTYPE html>
+ 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -119,7 +118,6 @@
   </ul>
 </body>
 </html>
-
 <DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,8 +133,8 @@
   </ul>
 </body>
 </html>
-
-<DOCTYPE html>
+ 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -162,7 +160,6 @@
   <p>This is</p>
 </body>
 </html>
-
 <DOCTYPE html>
 <html lang="en">
 <head>
@@ -179,8 +176,8 @@
   </div>
 </body>
 </html>
-
-<DOCTYPE html>
+ 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -196,8 +193,8 @@
   </article>
 </body>
 </html>
-
-<DOCTYPE html>
+ 
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -219,7 +216,7 @@
 </body>
 </html>
 
-<DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -259,10 +256,6 @@
   .hero {
   text-align: center;
   padding: 60px 20px;
-}
-  .profile {
-  width: 150px;
-  border-radius: 50%;
 }
   .btn {
   display: inline-block;
